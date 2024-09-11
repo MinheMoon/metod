@@ -1,0 +1,14 @@
+C:\Users\ПК\Desktop\oop\metod\bin\Debug\net7.0\metod.exe
+C:\Users\ПК\Desktop\oop\metod\bin\Debug\net7.0\metod.deps.json
+C:\Users\ПК\Desktop\oop\metod\bin\Debug\net7.0\metod.runtimeconfig.json
+C:\Users\ПК\Desktop\oop\metod\bin\Debug\net7.0\metod.dll
+C:\Users\ПК\Desktop\oop\metod\bin\Debug\net7.0\metod.pdb
+C:\Users\ПК\Desktop\oop\metod\obj\Debug\net7.0\metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\oop\metod\obj\Debug\net7.0\metod.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\oop\metod\obj\Debug\net7.0\metod.AssemblyInfo.cs
+C:\Users\ПК\Desktop\oop\metod\obj\Debug\net7.0\metod.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\oop\metod\obj\Debug\net7.0\metod.dll
+C:\Users\ПК\Desktop\oop\metod\obj\Debug\net7.0\refint\metod.dll
+C:\Users\ПК\Desktop\oop\metod\obj\Debug\net7.0\metod.pdb
+C:\Users\ПК\Desktop\oop\metod\obj\Debug\net7.0\metod.genruntimeconfig.cache
+C:\Users\ПК\Desktop\oop\metod\obj\Debug\net7.0\ref\metod.dll
